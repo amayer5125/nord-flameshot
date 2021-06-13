@@ -6,10 +6,8 @@ A [Flameshot](https://flameshot.org/) theme based on [Nord](https://github.com/a
 
 ### Installation
 
-Set the `contrastUiColor` and `uiColor` values under the General section of ~/.config/flameshot/flameshot.ini. For older versions, the config file may be located at ~/.config/Dharkael/flameshot.ini.
+Merge or overwrite the values in ~/.config/flameshot/flameshot.ini with the values from [flamshot.ini](flameshot.ini).
 
-```ini
-[General]
-contrastUiColor=#2e3440
-uiColor=#88c0d0
-```
+### Older Versions
+
+For older versions of flameshot, the config file may be located at ~/.config/Dharkael/flameshot.ini.
